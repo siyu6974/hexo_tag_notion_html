@@ -1,0 +1,9 @@
+Allow using HTML export of Notion as post content.
+
+Features
+
+- Removes CSS elements that disrupt Hexo layout
+- Wrap images into fancy boxes 
+
+TODO
+- Replace image path

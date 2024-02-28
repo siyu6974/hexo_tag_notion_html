@@ -23,7 +23,7 @@ hexo.extend.tag.register('notion_html', function (args, content) {
   regex = /<a\s+([^>]*)href="([^"]*)"(?=[^>]*>\s*<img)/g;
   // Replace <a> tag with data-fancybox attribute added
   content = content.replaceAll(regex, '<a $1 data-fancybox href="$2"');
-  console.log(content);
+  
   content = setupFancyBox(content);
   return content;
 
