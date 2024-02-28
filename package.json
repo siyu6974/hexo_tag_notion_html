@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "Siyu Zhang",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siyu6974/hexo_tag_notion_html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siyu6974/hexo_tag_notion_html/issues"
+  },
+  "homepage": "https://github.com/siyu6974/hexo_tag_notion_html#readme",
   "description": ""
 }
