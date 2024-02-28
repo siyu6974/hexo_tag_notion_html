@@ -7,3 +7,7 @@ Features
 
 TODO
 - Replace image path
+
+NOTE
+- not compatible with pjax
+- tag colors is not adaptive 
