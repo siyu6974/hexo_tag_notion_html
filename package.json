@@ -1,5 +1,5 @@
 {
-  "name": "notion_html",
+  "name": "hexo-notion-html",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
